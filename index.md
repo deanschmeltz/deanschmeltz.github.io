@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## welcome to my personal website
 
-You can use the [editor on GitHub](https://github.com/deanschmeltz/deanschmeltz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There's not much here right now, but I'm not about to let some other "Dean Schmeltz" claim this domain name. Not on my watch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### about me
 
-### Markdown
+I was born in Elgin, IL in 1991. I received my B.A. in Linguistics from Reed College in 2014, and I am currently pursuing an M.S.Ed. in Intercultural Communication from the University of Pennsylvania (anticipated May 2018). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### what I'm up to
 
-```markdown
-Syntax highlighted code block
+Here I'll be posting links to some things I've been reading or writing, so stay tuned. Just for kicks, here's my undergrad [thesis] (https://dl.dropboxusercontent.com/u/21727847/Dean%20Schmeltz%20Senior%20Thesis.pdf%20alias%20copy).
 
-# Header 1
-## Header 2
-### Header 3
+### find me elsewhere
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deanschmeltz/deanschmeltz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find me on [LinkedIn](https://www.linkedin.com/in/deanschmeltz) if you're into that sort of thing.
