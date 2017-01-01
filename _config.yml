@@ -1,3 +1,9 @@
 theme: jekyll-theme-dinky
 title: "Dean Schmeltz"
 name: "Dean Schmeltz"
+
+author:
+name: "Dean Schmeltz"
+email: "dean.schmeltz@gmail.com"
+linkedin: "https://www.linkedin.com/in/deanschmeltz"
+twitter: "deanschmeltz"
