@@ -1,1 +1,69 @@
-theme: jekyll-theme-dinky
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: "Dean Schmeltz"
+email:
+description: "personal website"
+url: # the base hostname & protocol for your site
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: "Dean Schmeltz"
+  avatar: dean.jpg
+  job: "personal website"
+  bio: "I was born in Elgin, IL in 1991. I received my B.A. in Linguistics from Reed College in 2014, and I am currently pursuing an M.S.Ed. in Intercultural Communication from the University of Pennsylvania (anticipated May 2018)."
+  email: deancarl@gse.upenn.edu
+  disqus-shortname:
+  twitter: deanschmeltz
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #deanschmeltz
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: deanschmeltz
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dean Schmeltz</title>
+    <description>personal website</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Jan 2017 23:52:07 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Jan 2017 23:52:07 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Welcome to my personal website</title>
+        <description>&lt;p&gt;There’s not much here right now, but I’m not about to let some other “Dean Schmeltz” claim this domain name. Not on my watch.&lt;/p&gt;
+
+&lt;p&gt;Here I’ll be posting links to some things I’ve been reading or writing, so stay tuned. Just for kicks, here’s my undergrad &lt;a href=&quot;https://dl.dropboxusercontent.com/u/21727847/Dean%20Schmeltz%20Senior%20Thesis.pdf&quot;&gt;thesis&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2016 16:28:19 +0100</pubDate>
+        <link>http://localhost:4000/articles/2016-01/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-01/welcome-to-jekyll</guid>
+        
+        
+        <category>intro</category>
+        
+      </item>
+    
+  </channel>
+</rss>
