@@ -11,7 +11,8 @@ comments: true
 
 One of the things I miss most about Portland now that I live and study in Philadelphia is the food. Don’t get me wrong – Philly has great food, but on a grad student budget I’m eating out less than I did last year in Portland. There I was working two part-time jobs, one of which provided a unique perspective on just a sliver of Portland’s food scene. This is a story about my time as a caretaker for a man named Mark, in the form of a review of the breakfast restaurants we visited together. I’m writing it as a way to reminisce about Portland, and sharing it in case anyone out there likes huevos rancheros as much as Mark does.  
 
-<img src="https://cloud.githubusercontent.com/assets/24818655/21746855/db9df900-d510-11e6-9ead-65103733c847.jpg" alt="Mark portrait" style="width: 200px;"/>
+<img src="https://cloud.githubusercontent.com/assets/24818655/21746855/db9df900-d510-11e6-9ead-65103733c847.jpg" alt="Mark portrait" style="width: 400px;"/>
+
 Photo Credit: [Ali Lanenga](http://www.alilanenga.com/)
 
 Mark is the dad of a college friend, and I took him to breakfast most Saturday mornings for eight months. Portlanders who eat out on the weekend have a wide variety of early-morning options, but Mark was single-mindedly focused on huevos rancheros. Those two words were music to his ears, but could mean any number of things when printed on a menu. [More on the range/variability between dishes.]
