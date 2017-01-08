@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Huevos Rancheros with Mark"
-date:   2016-01-07 15:28:19
+date:   2016-01-08 15:28:19
 categories: [post]
 published: false
 comments: true
@@ -13,7 +13,7 @@ One of the things I miss most about Portland now that I live and study in Philad
 
 <img src="https://cloud.githubusercontent.com/assets/24818655/21746855/db9df900-d510-11e6-9ead-65103733c847.jpg" alt="Mark portrait" style="width: 400px;"/>
 
-_Photo Credit: [Ali Lanenga](http://www.alilanenga.com/)_
+_Photo credit to [Ali Lanenga](http://www.alilanenga.com/)_
 
 Mark is the dad of a college friend, and I took him to breakfast most Saturday mornings for eight months. Portlanders who eat out on the weekend have a wide variety of early-morning options, but Mark was single-mindedly focused on huevos rancheros. Those two words were music to his ears, but could mean any number of things when printed on a menu. [More on the range/variability between dishes.]
 
