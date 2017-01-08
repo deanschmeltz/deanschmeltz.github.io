@@ -13,7 +13,7 @@ One of the things I miss most about Portland now that I live and study in Philad
 
 <img src="https://cloud.githubusercontent.com/assets/24818655/21746855/db9df900-d510-11e6-9ead-65103733c847.jpg" alt="Mark portrait" style="width: 400px;"/>
 
-Photo Credit: [Ali Lanenga](http://www.alilanenga.com/)
+_Photo Credit: [Ali Lanenga](http://www.alilanenga.com/)_
 
 Mark is the dad of a college friend, and I took him to breakfast most Saturday mornings for eight months. Portlanders who eat out on the weekend have a wide variety of early-morning options, but Mark was single-mindedly focused on huevos rancheros. Those two words were music to his ears, but could mean any number of things when printed on a menu. [More on the range/variability between dishes.]
 
@@ -41,7 +41,7 @@ Zell’s Cafe serves up a simple plate of huevos rancheros that earned an enthus
 
 #### #3: [Genies Cafe](http://geniesdivision.com/)
 
-Genies is interesting, because their best huevos rancheros aren’t the “huevos rancheros” at all. Those cost $10.50, but for $9.25 you can get the “Spanish scramble,” which is a far better deal. Both options include the basic eggs, beans, cheese, ranchero sauce, and even a side of potatoes. However, the scramble also includes chorizo – which would inexplicably cost $2 extra if you ordered the huevos rancheros – as well as jalapeños and scallions (but of course Mark didn’t want those). The only thing the huevos rancheros have that the Spanish scramble doesn’t is a pair of corn tortillas, so if that’s a non-negotiable component of your breakfast, it’s your only option. Instead of tortillas, Mark was happy that his scramble did come with a choice of toast. He even didn’t mind settling for rye toast, after being informed that French toast would cost extra. At the end of the meal, Mark declared it “really good,” whether it was technically huevos rancheros or not.   
+Genies is interesting, because their best huevos rancheros aren’t the “huevos rancheros” at all. Those cost $10.50, but for $9.25 you can get the “Spanish scramble,” which is a far better deal. Both options include the basic eggs, beans, cheese, ranchero sauce, and even a side of potatoes. However, the scramble also includes chorizo – which would inexplicably cost $2 _extra_ if you ordered the huevos rancheros – as well as jalapeños and scallions (but of course Mark didn’t want those). The only thing the huevos rancheros have that the Spanish scramble doesn’t is a pair of corn tortillas, so if that’s a non-negotiable component of your breakfast, it’s your only option. Instead of tortillas, Mark was happy that his scramble did come with a choice of toast. He even didn’t mind settling for rye toast, after being informed that French toast would cost extra. At the end of the meal, Mark declared it “really good,” whether it was technically huevos rancheros or not.   
 
 #### #2: [Pepper Box Cafe](http://www.pepperboxpdx.com/)
 
