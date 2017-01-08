@@ -7,7 +7,7 @@ published: false
 comments: true
 ---
 
-# Finding a Texan’s favorite breakfast in Portland, Oregon
+## Finding a Texan’s favorite breakfast in Portland, Oregon
 
 One of the things I miss most about Portland now that I live and study in Philadelphia is the food. Don’t get me wrong – Philly has great food, but on a grad student budget I’m eating out less than I did last year in Portland. There I was working two part-time jobs, one of which provided a unique perspective on just a sliver of Portland’s food scene. This is a story about my time as a caretaker for a man named Mark, in the form of a review of the breakfast restaurants we visited together. I’m writing it as a way to reminisce about Portland, and sharing it in case anyone out there likes huevos rancheros as much as Mark does.  
 
