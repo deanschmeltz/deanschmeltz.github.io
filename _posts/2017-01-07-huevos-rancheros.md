@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Huevos Rancheros with Mark"
-date:   2016-01-08 15:28:19
+date:   2016-01-08 20:00:00
 categories: [post]
 published: true
 comments: true
@@ -20,6 +20,7 @@ Mark is the dad of a college friend, and I took him to breakfast most Saturday m
 Asking for no scallions here, getting the green sauce there … Mark couldn’t remember those details for himself, or form any new memories easily. It was this cognitive challenge that brought Mark from Texas to Portland to move in with his son, who in turn hired me and a few others as outing companions. Luckily, my weekly shifts included Saturday morning breakfast. Since my meal and time were both being paid for, I always ordered something a little cheaper off the menu than what Mark had. Therefore, I have not actually tasted any of the huevos rancheros dishes that I'm about to review. I must admit to violating the “write what you know” maxim, at least with respect to huevos rancheros themselves. However, after spending over 300 hours with Mark, I became very good at reading him. Of all the things I learned in that time, the most practical thing to share is my knowledge – my second-hand, out-of-date knowledge – of where to get huevos rancheros around inner-SE Portland. Your milage may vary. With that in mind, here are the seven restaurants we visited most often, in order from least to most-recommended:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Qo3TbZhf52CykN2jQmL-18S49nY" width="640" height="480"></iframe>
+_Click map icon for details, and a picture of Mark!_
 
 #### #7: [City State Diner](http://www.citystatediner.com/)
 
