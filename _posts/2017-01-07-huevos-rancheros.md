@@ -2,6 +2,7 @@
 layout: post
 title:  "Huevos Rancheros with Mark"
 date:   2016-01-08 20:00:00
+excerpt: Finding a Texan’s favorite breakfast in Portland, Oregon
 categories: [post]
 published: true
 comments: true
@@ -46,7 +47,7 @@ Genies is interesting, because their best huevos rancheros aren’t the “huevo
 
 #### #2: [Pepper Box Cafe](http://www.pepperboxpdx.com/)
 
-Of all the restaurants on this list, Pepper Box is currently the highest rated on Yelp, and it serves the least expensive huevos rancheros at only $8. Or, for $8.50, the migas menu option is very similar – had I realized this at the time, I would probably have ordered it for Mark instead. Unlike the migas, the huevos rancheros does not come with avocado or chorizo, but it does include soft tortillas rather than chips, a side of potatoes, and a choice of salsas. Being a New Mexico-style restaurant, Pepper Box offers the choice of red chile or green chile, and Mark surprised me by choosing green. He was pleased with his choice, and with the breakfast overall, saying: "It's really good. It's a little spicy, but not overly spicy." Mark’s satisfaction with the huevos rancheros, and my awe of the inexpensive menu (e.g. enormous breakfast tacos starting at $3) make Pepper Box a top pick – by all means, go for breakfast or lunch if you’re in the neighborhood. However, it was barely nudged out of the number-one slot on this list due to Mark’s enjoyment of another, absolutely ridiculous restaurant. 
+Of all the restaurants on this list, Pepper Box is currently the highest rated on [Yelp](https://www.yelp.com/biz/pepper-box-cafe-portland-2), and it serves the least expensive huevos rancheros at only $8. Or, for $8.50, the migas menu option is very similar – had I realized this at the time, I would probably have ordered it for Mark instead. Unlike the migas, the huevos rancheros does not come with avocado or chorizo, but it does include soft tortillas rather than chips, a side of potatoes, and a choice of salsas. Being a New Mexico-style restaurant, Pepper Box offers the choice of red chile or green chile, and Mark surprised me by choosing green. He was pleased with his choice, and with the breakfast overall, saying: "It's really good. It's a little spicy, but not overly spicy." Mark’s satisfaction with the huevos rancheros, and my awe of the inexpensive menu (e.g. enormous breakfast tacos starting at $3) make Pepper Box a top pick – by all means, go for breakfast or lunch if you’re in the neighborhood. However, it was barely nudged out of the number-one slot on this list due to Mark’s enjoyment of another, absolutely ridiculous restaurant. 
 
 #### #1: [Slappy Cakes](http://www.slappycakes.com/)
 
