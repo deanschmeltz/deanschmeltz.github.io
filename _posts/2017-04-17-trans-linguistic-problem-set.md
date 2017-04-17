@@ -4,7 +4,7 @@ title:  "Trans-Linguistic Problem Set"
 date:   2017-04-17 20:00:00
 excerpt: “The science of language” struck eighteen-year-old me as an appealing contradiction.
 categories: [post]
-published: true
+published: false
 comments: true
 ---
 
