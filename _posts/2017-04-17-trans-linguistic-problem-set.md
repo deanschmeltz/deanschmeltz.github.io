@@ -42,5 +42,5 @@ EDUC 546: Sociolinguistics in Education
 
 #### 1.5. Spectrogram
 
-Test.
+![spectrogram-annotated](https://cloud.githubusercontent.com/assets/24818655/25096288/a8ba0384-236d-11e7-80f8-bfc8325f1dd5.png)
 
