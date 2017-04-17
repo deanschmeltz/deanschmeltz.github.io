@@ -13,8 +13,11 @@ comments: true
 --- 
 
 Dean Schmeltz
+
 Dr. Nelson Flores
+
 EDUC 546: Sociolinguistics in Education
+
 17 April 2017
 
 ### 1. Phonetics & Phonology 
