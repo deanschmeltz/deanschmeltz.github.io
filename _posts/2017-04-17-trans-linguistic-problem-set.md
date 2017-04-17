@@ -22,6 +22,8 @@ EDUC 546: Sociolinguistics in Education
 
 17 April 2017
 
+<p align="center">Trans-Linguistic Problem Set</p>
+
 ### 1. Phonetics & Phonology 
 
 #### 1.1. Static Palatography
