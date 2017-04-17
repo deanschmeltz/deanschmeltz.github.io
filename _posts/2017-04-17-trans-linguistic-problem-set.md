@@ -26,7 +26,7 @@ EDUC 546: Sociolinguistics in Education
 
 #### 1.1. Static Palatography
 
-Test.
+![screeny shot apr 17 2017 12 27 54 pm](https://cloud.githubusercontent.com/assets/24818655/25095363/694b85dc-2369-11e7-92e1-3519a81553b3.png)
 
 #### 1.2. Nasal Airflow
 
