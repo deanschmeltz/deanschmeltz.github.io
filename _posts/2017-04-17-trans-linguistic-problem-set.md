@@ -12,4 +12,14 @@ comments: true
 
 --- 
 
-I put down the course catalogue, un-undecided. Linguistics gave me my first good look at language diversity. I needed that. But studying capital-L Language didn’t give me two little-l languages to rub together. It’s fine – that wasn’t what I wanted. Still isn’t, though saying so bothers me more now.
+1. Phonetics & Phonology 
+1.1. Static Palatography
+
+1.2. Nasal Airflow
+
+1.3. Optimality Theory Tableaux
+
+1.4. Vowelspace Map
+
+1.5. Spectrogram
+
