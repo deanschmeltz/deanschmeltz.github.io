@@ -10,6 +10,8 @@ comments: true
 
 #### “The science of language” struck eighteen-year-old me as an appealing contradiction. 
 
+[... continued]
+
 --- 
 
 Dean Schmeltz
