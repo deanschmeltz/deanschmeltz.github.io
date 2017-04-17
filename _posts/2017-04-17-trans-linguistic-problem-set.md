@@ -30,7 +30,7 @@ EDUC 546: Sociolinguistics in Education
 
 #### 1.2. Nasal Airflow
 
-Test. 
+![airflow-annotated](https://cloud.githubusercontent.com/assets/24818655/25096250/6b3a9456-236d-11e7-8088-a7394cad2b90.png)
 
 #### 1.3. Optimality Theory Tableaux
 
