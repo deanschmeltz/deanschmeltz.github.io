@@ -34,7 +34,7 @@ EDUC 546: Sociolinguistics in Education
 
 #### 1.3. Optimality Theory Tableaux
 
-Test.
+![ot-tableaux](https://cloud.githubusercontent.com/assets/24818655/25096275/8afb0c94-236d-11e7-9111-805ec3c972b8.png)
 
 #### 1.4. Vowelspace Map
 
