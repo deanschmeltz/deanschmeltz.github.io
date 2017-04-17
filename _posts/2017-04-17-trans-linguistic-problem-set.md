@@ -4,7 +4,7 @@ title:  "Trans-Linguistic Problem Set"
 date:   2017-04-17 20:00:00
 excerpt: “The science of language” struck eighteen-year-old me as an appealing contradiction.
 categories: [post]
-published: false
+published: true
 comments: true
 ---
 
@@ -38,7 +38,7 @@ Test.
 
 #### 1.4. Vowelspace Map
 
-Test.
+![vowelspace](https://cloud.githubusercontent.com/assets/24818655/25095128/46e89ee0-2368-11e7-8b7d-5b8883e797d5.jpg)
 
 #### 1.5. Spectrogram
 
