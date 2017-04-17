@@ -4,13 +4,18 @@ title:  "Trans-Linguistic Problem Set"
 date:   2017-04-17 20:00:00
 excerpt: “The science of language” struck eighteen-year-old me as an appealing contradiction.
 categories: [post]
-published: false
+published: true
 comments: true
 ---
 
 #### “The science of language” struck eighteen-year-old me as an appealing contradiction. 
 
 --- 
+
+Dean Schmeltz
+Dr. Nelson Flores
+EDUC 546: Sociolinguistics in Education
+17 April 2017
 
 ### 1. Phonetics & Phonology 
 
