@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Trans-Linguistic Problem Set"
-date:   2017-04-17 20:00:00
+date:   2017-04-17 20:50:00
 excerpt: “The science of language” struck eighteen-year-old me as an appealing contradiction.
 categories: [post]
-published: false
+published: true
 comments: true
 ---
 
 #### “The science of language” struck eighteen-year-old me as an appealing contradiction. 
 
-[... continued]
+I put down the course catalogue, un-undecided. In the following years, Linguistics offered a real good look at Language diversity. I needed that. But after studying capital-L Language, I still didn’t have two little-l languages to rub together. Spanish didn’t last long after high school. So here I am, a monolingual man, studying Intercultural Communication. Is that an appealing contradiction too? I have more ways of talking about Language than languages to do it in. Will I lose Linguistics like Spanish before? For now, the Science of Language still speaks to me, if I squint.
 
 --- 
 
