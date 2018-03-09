@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When a "School Within a School" is Unconstitutional"
+title:  "When a School Within a School is Unconstitutional"
 date:   2018-03-09 20:00:00
 excerpt: For this exercise, I sought to reckon with an aspect of my educational context that I felt had been underexplored: discriminatory practices across my school district that worked in my favor.
 categories: [post]
