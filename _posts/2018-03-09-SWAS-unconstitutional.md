@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "When a School Within a School is Unconstitutional"
-date:   2018-03-09 20:00:00
-excerpt: For this exercise, I sought to reckon with an aspect of my educational context that I felt had been underexplored: discriminatory practices across my school district that worked in my favor.
+date:   2018-03-09 12:00:00
+excerpt: Years after moving away for college, I began to hear whispers that my old school district was grappling with the idea that their elementary SWAS program might have been racist
 categories: [post]
 published: true
 comments: true
 ---
-
 #### Now in the fourth and final semester of my Master's program at Penn GSE, I have had plenty of opportunity to reflect on how my formative educational experiences contributed to the academic success that brought me here. 
 
 --- 
