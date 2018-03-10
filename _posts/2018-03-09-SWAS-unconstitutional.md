@@ -2,7 +2,7 @@
 layout: post
 title:  "When a 'School Within a School' is Unconstitutional"
 date:   2018-03-09 12:00:00
-excerpt: After moving to college, I began to hear whispers that my old school district was grappling with the idea that their  SWAS program might have been racist.
+excerpt: After moving to college, I began hearing whispers that my school district was grappling with the idea that their SWAS program might have been racist.
 categories: [post]
 published: true
 comments: true
