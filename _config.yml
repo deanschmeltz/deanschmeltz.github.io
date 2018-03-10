@@ -34,13 +34,13 @@ kramdown:
 #
 owner:
   name: "Dean Schmeltz"
-  avatar: dean.jpg
+  avatar: dean-new.jpg
   job: "personal website"
-  bio: "I was born in Elgin, IL in 1991. I received my B.A. in Linguistics from Reed College in 2014, and I am currently pursuing an M.S.Ed. in Intercultural Communication from the University of Pennsylvania (anticipated May 2018)."
+  bio: "I was born in Elgin, IL in 1991. I received my B.A. in Linguistics from Reed College in 2014, and I am currently pursuing an M.S.Ed. in Intercultural Communication from the University of Pennsylvania (May 2018)."
   email: deancarl@gse.upenn.edu
   disqus-shortname:
   twitter: deanschmeltz
-  facebook: #username
+  facebook: dean.schmeltz
   google:
     plus: #username
     analytics:
